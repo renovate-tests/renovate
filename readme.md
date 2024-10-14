@@ -7,7 +7,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/renovate/renovate?color=turquoise)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/renovatebot/renovate/badge)](https://securityscorecards.dev/viewer/?uri=github.com/renovatebot/renovate)
 
-# What is the Mend Renovate CLI?
+# What is the Mend Renovate CLI??
 
 Renovate is an automated dependency update tool.
 It helps to update dependencies in your code without needing to do it manually.
